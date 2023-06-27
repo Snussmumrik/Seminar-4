@@ -1,0 +1,15 @@
+D:\Study\C# method\27\bin\Debug\net6.0\27.exe
+D:\Study\C# method\27\bin\Debug\net6.0\27.deps.json
+D:\Study\C# method\27\bin\Debug\net6.0\27.runtimeconfig.json
+D:\Study\C# method\27\bin\Debug\net6.0\27.dll
+D:\Study\C# method\27\bin\Debug\net6.0\27.pdb
+D:\Study\C# method\27\obj\Debug\net6.0\27.csproj.AssemblyReference.cache
+D:\Study\C# method\27\obj\Debug\net6.0\27.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\C# method\27\obj\Debug\net6.0\27.AssemblyInfoInputs.cache
+D:\Study\C# method\27\obj\Debug\net6.0\27.AssemblyInfo.cs
+D:\Study\C# method\27\obj\Debug\net6.0\27.csproj.CoreCompileInputs.cache
+D:\Study\C# method\27\obj\Debug\net6.0\27.dll
+D:\Study\C# method\27\obj\Debug\net6.0\refint\27.dll
+D:\Study\C# method\27\obj\Debug\net6.0\27.pdb
+D:\Study\C# method\27\obj\Debug\net6.0\27.genruntimeconfig.cache
+D:\Study\C# method\27\obj\Debug\net6.0\ref\27.dll
